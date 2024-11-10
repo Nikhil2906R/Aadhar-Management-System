@@ -11,15 +11,13 @@ Getting Started
 
   git clone https://github.com/Nikhil2906R/Aadhar-Management-System.git
 
-  cd aadhar-management-system
-
 2. Compile the Code: Ensure you have a C compiler installed (such as GCC). Then, compile the code:
 
-  gcc aadhar_management.c -o aadhar_management
+  gcc aadhar.c -o aadhar
 
 3. Run the Application:
 
-  ./aadhar_management
+  ./aadhar
 
 Usage
 
